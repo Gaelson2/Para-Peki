@@ -48,7 +48,6 @@
             background-color: #d10000;
         }
     </style>
-</head>
 <body>
     <h1>¿Quieres ser mi Valentín? ❤️</h1>
     <p class="heart">💖</p>
